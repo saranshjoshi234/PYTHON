@@ -1,0 +1,5 @@
+pandas
+openpyxl
+pip
+google-cloud-bigquery
+google-cloud-storage==1.36.2
